@@ -35,7 +35,7 @@ Execute `python3 python translator.py`
 
 ### Screenshots showing the sample use of the script
 <p align="center">
-  <img src="https://user-images.githubusercontent.com/85709371/151772608-757c40f7-21f8-4be1-b865-8d59a8ae0a11.png" alt="output">
+  <a href="output.png"><img src="https://user-images.githubusercontent.com/85709371/151772608-757c40f7-21f8-4be1-b865-8d59a8ae0a11.png" alt="output"></a>
 </p>
 
 ## *Author Name*
